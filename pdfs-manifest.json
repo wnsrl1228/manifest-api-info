@@ -1,0 +1,48 @@
+{
+    "@context": [
+        "http://wellcomelibrary.org/ld/ixif/0/context.json",
+        "http://iiif.io/api/presentation/2/context.json"
+    ],
+    "@id": "http://localhost:8080/api/iiif/v2/kmManifests/1734727/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "주요국가의 이민정책 추진체계 및 이민법",
+    "metadata": [
+        {
+            "label": "제목",
+            "value": "주요국가의 이민정책 추진체계 및 이민법"
+        },
+        {
+            "label": "발행자",
+            "value": ""
+        },
+        {
+            "label": "설명",
+            "value": "본서는 우리나라 이민정책에서 참조할 만한 나라들의 정책과 법 제도를 비교하기 위한 참고자료로 기획하였다. 유럽연합 회원국인 독일과 영국, 프랑스(제1부), 그리고 태생적 이민국인 미국과 캐나다, 호주(제2부), 여기에 덧붙여 우리와 경제 사회적 배경과 정책방향이 유사한 일본(제3부) 등 도합 일곱 나라를 선정하였다. 각국에 대한 서술 체계는 나라에 따라 이민영역에서 겪고 있는 현실(I)과 이에 대한 정책적 대응(II), 이 정책을 수립하고 추진하는 시스템(III) 그리고 이를 규범적으로 뒷받침하는 법 제도(IV)를 소개하였다.\r\n좀 더 자세히 보면 이민현황(I)에서 역사적 전개와 체류현황, 사회통합현황을 다룬다. 특히 체류현황과 사회통합현황은 통계와 정책지수 등 수치화한 자료를 참조하였다. 사회통합현황에서는 MIPEX (Migration Integration Policy Index: 이민자통합 정책지수)를 참조하였는데, 이는 각국의 사실상의 통합정도라기보다는 외국인정책 내지 이민정책의 사회통합 친화성의 정도에 대한 평가이다. 이민정책(II)은 이민정책의 정치적, 경제적, 사회적 측면에서의 기본방향과 정책대상 그리고 체류허가를 내용으로 한다. 세계화 시대에 각국 이민정책의 기본방향은 유사한 경향을 보이는데, 이민정책의 대상 즉 국적인정의 범위와 체류관리 및 사회통합의 대상으로 어떠한 집단들이 있는가는 그 나라의 역사성에 따라 다르게 나타난다. 이러한 이민정책의 조직적인 추진에 대해 이민정책 추진체계(III)를 다루었다. 정책결정과 정책집행을 구분하여 서술할 수도 있겠으나 여기서는 통합적 행정조직이 있는가, 없다면 어느 부처가 주도하는가, 부처 간 정책협의와 조정이 어떻게 이루어지는가를 살펴보았다.\r\n끝으로 이를 뒷받침하는 실정법체계(IV)이다. 현행 실정법이 이루어지기까지의 연혁과 규정하고 있는 주요 내용을 담고 있다. 특히 각국의 개별적인 실정법 규정을 이해하기 위해서는 전체적인 체계가 어떠한가에 대해 미리 조감해야 하는데, 본서는 여기에 도움이 될 것을 기대한다."
+        },
+        {
+            "label": "발행일자",
+            "value": ""
+        }
+    ],
+    "sequences": [],
+    "mediaSequences": [
+        {
+            "@id": "http://localhost:8080/api/iiif/v2/manifests/1734727/xsequence/s0",
+            "@type": "ixif:MediaSequence",
+            "elements": [
+                {
+                    "@id": "http://localhost:8080/viewer/f20240709wKsp.pdf",
+                    "@type": "foaf:Document",
+                    "format": "application/pdf",
+                    "thumbnail": "http://localhost:8080/api/iiif/v2/kmImages/Ojpjb2xsZWN0aW9uOjpmMjAyMzA1MDIzNzdQLnBuZzo67I2464Sk7J28IOyYpOumrOyngOuEkOydtOumhA==/full/max/0/default.jpg"
+                },
+                {
+                    "@id": "http://localhost:8080/viewer/f20240709wKsK.pdf",
+                    "@type": "foaf:Document",
+                    "format": "application/pdf",
+                    "thumbnail": "http://localhost:8080/api/iiif/v2/kmImages/Ojpjb2xsZWN0aW9uOjpmMjAyMzA1MDIzNzdQLnBuZzo67I2464Sk7J28IOyYpOumrOyngOuEkOydtOumhA==/full/max/0/default.jpg"
+                }
+            ]
+        }
+    ]
+}

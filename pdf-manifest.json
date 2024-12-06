@@ -1,0 +1,46 @@
+
+
+{
+    "@context": [
+      "http://wellcomelibrary.org/ld/ixif/0/context.json",
+      "http://iiif.io/api/presentation/2/context.json"
+    ],
+    "@id": "http://localhost:8080/api/iiif/v2/kmManifests/2034230/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "",
+    "mediaSequences": [
+      {
+        "@id": "http://localhost:8080/api/iiif/v2/manifests/2034230/xsequence/s0",
+        "@type": "ixif:MediaSequence",
+        "elements": [
+          {
+            "@id": "https://biiif-template-example-3kntb3jpl-mnemoscene.vercel.app/audio/_onesmallstep/one-small-step.mp3",
+            "@type": "foaf:Document",
+            "format": "application/pdf",
+            "thumbnail": "https://iiif.wellcomecollection.org/thumb/b17307922"
+          }
+        ]
+      }
+    ],
+    "metadata": [
+      {
+        "label": "제목",
+        "value": ""
+      },
+      {
+        "label": "발행자",
+        "value": "국립중앙도서관"
+      },
+      {
+        "label": "설명",
+        "value": ""
+      },
+      {
+        "label": "발행일자",
+        "value": "20200818"
+      }
+    ],
+    "sequences": [
+      
+    ]
+  }
